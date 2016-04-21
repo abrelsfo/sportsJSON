@@ -1,0 +1,1322 @@
+{
+  "American Athletic":{
+    "Cincinnati":{
+      "abbrev":"CIN",
+      "mascot":"Bearcats",
+      "pic":"./logos/cincinnati.png"
+    },
+    "Connecticut":{
+      "abbrev":"CONN",
+      "mascot":"Huskies",
+      "pic":"./logos/connecticut.png"
+    },
+    "East Carolina":{
+      "abbrev":"ECU",
+      "mascot":"Pirates",
+      "pic":"./logos/eastCarolina.png"
+    },
+    "Houston":{
+      "abbrev":"HOU",
+      "mascot":"Cougars",
+      "pic":"./logos/houston.png"
+    },
+    "Memphis":{
+      "abbrev":"MEM",
+      "mascot":"Tigers",
+      "pic":"./logos/memphis.png"
+    },
+    "Navy":{
+      "abbrev":"NAVY",
+      "mascot":"Midshipmen",
+      "pic":"./logos/navy.png"
+    },
+    "SMU":{
+      "abbrev":"SMU",
+      "mascot":"Mustangs",
+      "pic":"./logos/smu.png"
+    },
+    "South Florida":{
+      "abbrev":"USF",
+      "mascot":"Bulls",
+      "pic":"./logos/southFlorida.png"
+    },
+    "Temple":{
+      "abbrev":"TEM",
+      "mascot":"Owls",
+      "pic":"./logos/temple.png"
+    },
+    "Tulane":{
+      "abbrev":"TULN",
+      "mascot":"Green Wave",
+      "pic":"./logos/tulane.png"
+    },
+    "Tulsa":{
+      "abbrev":"TLSA",
+      "mascot":"Golden Hurricane",
+      "pic":"./logos/tulsa.png"
+    },
+    "UCF":{
+      "abbrev":"UCF",
+      "mascot":"Knights",
+      "pic":"./logos/ucf.png"
+    }
+  },
+  "ACC":{
+    "Boston College":{
+      "abbrev":"BC",
+      "mascot":"Eagles",
+      "pic":"./logos/boston.png"
+    },
+    "Clemson":{
+      "abbrev":"CLEM",
+      "mascot":"Tigers",
+      "pic":"./logos/clemson.png"
+    },
+    "Duke":{
+      "abbrev":"DUKE",
+      "mascot":"Blue Devils",
+      "pic":"./logos/duke.png"
+    },
+    "Florida State":{
+      "abbrev":"FSU",
+      "mascot":"Seminoles",
+      "pic":"./logos/floridaState.png"
+    },
+    "Georgia Tech":{
+      "abbrev":"GT",
+      "mascot":"Yellow Jackets",
+      "pic":"./logos/georgiaTech.png"
+    },
+    "Louisville":{
+      "abbrev":"LOU",
+      "mascot":"Cardinals",
+      "pic":"./logos/louisville.png"
+    },
+    "Miami":{
+      "abbrev":"MIAMI",
+      "mascot":"Hurricanes",
+      "pic":"./logos/miami.png"
+    },
+    "NC State":{
+      "abbrev":"NCST",
+      "mascot":"Wolfpack",
+      "pic":"./logos/ncState.png"
+    },
+    "North Carolina":{
+      "abbrev":"NC",
+      "mascot":"Tar Heels",
+      "pic":"./logos/northCarolina.png"
+    },
+    "Pittsburgh":{
+      "abbrev":"PITT",
+      "mascot":"Panthers",
+      "pic":"./logos/pittsburgh.png"
+    },
+    "Syracuse":{
+      "abbrev":"SYR",
+      "mascot":"Orange",
+      "pic":"./logos/syracuse.png"
+    },
+    "Virginia":{
+      "abbrev":"UVA",
+      "mascot":"Cavaliers",
+      "pic":"./logos/virginia.png"
+    },
+    "Virginia Tech":{
+      "abbrev":"VT",
+      "mascot":"Hokies",
+      "pic":"./logos/virginiaTech.png"
+    },
+    "Wake Forest":{
+      "abbrev":"WAKE",
+      "mascot":"Demon Deacons",
+      "pic":"./logos/wakeForest.png"
+    }
+  },
+  "Big 12":{
+    "Baylor":{
+      "abbrev":"BAY",
+      "mascot":"Bears",
+      "pic":"./logos/baylor.png"
+    },
+    "Iowa State":{
+      "abbrev":"ISU",
+      "mascot":"Cyclones",
+      "pic":"./logos/iowaState.png"
+    },
+    "Kansas":{
+      "abbrev":"KU",
+      "mascot":"Jayhawks",
+      "pic":"./logos/kansas.png"
+    },
+    "Kansas State":{
+      "abbrev":"KSU",
+      "mascot":"Wildcats",
+      "pic":"./logos/kansasState.png"
+    },
+    "Oklahoma":{
+      "abbrev":"OKLA",
+      "mascot":"Sooners",
+      "pic":"./logos/oklahoma.png"
+    },
+    "Oklahoma State":{
+      "abbrev":"OKST",
+      "mascot":"Cowboys",
+      "pic":"./logos/oklahomaState.png"
+    },
+    "TCU":{
+      "abbrev":"TCU",
+      "mascot":"Horned Frogs",
+      "pic":"./logos/tcu.png"
+    },
+    "Texas":{
+      "abbrev":"TEX",
+      "mascot":"Longhorns",
+      "pic":"./logos/texas.png"
+    },
+    "Texas Tech":{
+      "abbrev":"TTU",
+      "mascot":"Red Raiders",
+      "pic":"./logos/texasTech.png"
+    },
+    "West Virginia":{
+      "abbrev":"WVU",
+      "mascot":"Mountaineers",
+      "pic":"./logos/westVirginia.png"
+    }
+  },
+  "Big Ten":{
+    "Illinois":{
+      "abbrev":"ILL",
+      "mascot":"Fighting Illini",
+      "pic":"./logos/illinois.png"
+    },
+    "Indiana":{
+      "abbrev":"IND",
+      "mascot":"Hoosiers",
+      "pic":"./logos/indiana.png"
+    },
+    "Iowa":{
+      "abbrev":"IOWA",
+      "mascot":"Hawkeyes",
+      "pic":"./logos/iowa.png"
+    },
+    "Maryland":{
+      "abbrev":"MARY",
+      "mascot":"terrapins",
+      "pic":"./logos/maryland.png"
+    },
+    "Michigan":{
+      "abbrev":"MICH",
+      "mascot":"Wolverines",
+      "pic":"./logos/michigan.png"
+    },
+    "Michigan State":{
+      "abbrev":"MIST",
+      "mascot":"Spartans",
+      "pic":"./logos/michiganState.png"
+    },
+    "Minnesota":{
+      "abbrev":"MINN",
+      "mascot":"Golden Gophers",
+      "pic":"./logos/minnesota.png"
+    },
+    "Nebraska":{
+      "abbrev":"NEB",
+      "mascot":"cornhuskers",
+      "pic":"./logos/nebraska.png"
+    },
+    "Northwestern":{
+      "abbrev":"NWEST",
+      "mascot":"Wildcats",
+      "pic":"./logos/northwestern.png"
+    },
+    "Ohio State":{
+      "abbrev":"OHST",
+      "mascot":"Buckeyes",
+      "pic":"./logos/ohioState.png"
+    },
+    "Penn State":{
+      "abbrev":"PSU",
+      "mascot":"Nittany Lions",
+      "pic":"./logos/pennState.png"
+    },
+    "Purdue":{
+      "abbrev":"PURD",
+      "mascot":"Boilermakers",
+      "pic":"./logos/purdue.png"
+    },
+    "Rutgers":{
+      "abbrev":"RUTG",
+      "mascot":"Scarlet Knights",
+      "pic":"./logos/rutgers.png"
+    },
+    "Wisconsin":{
+      "abbrev":"WIS",
+      "mascot":"Badgers",
+      "pic":"./logos/wisconsin.png"
+    }
+  },
+  "Conference USA":{
+    "Charlotte":{
+      "abbrev":"CHAR",
+      "mascot":"49ers",
+      "pic":"./logos/charlotte.png"
+    },
+    "Florida Atlantic":{
+      "abbrev":"FAU",
+      "mascot":"Owls",
+      "pic":"./logos/floridaAtlantic.png"
+    },
+    "Florida Intl":{
+      "abbrev":"FIU",
+      "mascot":"Golden Panthers",
+      "pic":"./logos/floridaIntl.png"
+    },
+    "Louisiana Tech":{
+      "abbrev":"LT",
+      "mascot":"Bulldogs",
+      "pic":"./logos/louisianaTech.png"
+    },
+    "Marshall":{
+      "abbrev":"MRSH",
+      "mascot":"Thundering Herd",
+      "pic":"./logos/marshall.png"
+    },
+    "Middle Tennessee":{
+      "abbrev":"MTSU",
+      "mascot":"Blue Raiders",
+      "pic":"./logos/middleTennessee.png"
+    },
+    "North Texas":{
+      "abbrev":"UNT",
+      "mascot":"Mean Green",
+      "pic":"./logos/northTexas.png"
+    },
+    "Old Dominion":{
+      "abbrev":"ODU",
+      "mascot":"Monarchs",
+      "pic":"./logos/oldDominion.png"
+    },
+    "Rice":{
+      "abbrev":"Rice",
+      "mascot":"Owls",
+      "pic":"./logos/rice.png"
+    },
+    "Southern Mississippi":{
+      "abbrev":"USM",
+      "mascot":"Golden Eagles",
+      "pic":"./logos/southernMississippi.png"
+    },
+    "Texas San Antonio":{
+      "abbrev":"UTSA",
+      "mascot":"Roadrunners",
+      "pic":"./logos/texasSanAntonio.png"
+    },
+    "UAB":{
+      "abbrev":"UAB",
+      "mascot":"Blazers",
+      "pic":"./logos/uab.png"
+    },
+    "UTEP":{
+      "abbrev":"UTEP",
+      "mascot":"Miners",
+      "pic":"./logos/utep.png"
+    },
+    "Western Kentucky":{
+      "abbrev":"WKU",
+      "mascot":"Hilltoppers",
+      "pic":"./logos/westernKentucky.png"
+    }
+  },
+  "FBS Independents":{
+    "Army":{
+      "abbrev":"ARMY",
+      "mascot":"Black Knights",
+      "pic":"./logos/army.png"
+    },
+    "BYU":{
+      "abbrev":"BYU",
+      "mascot":"Cougars",
+      "pic":"./logos/byu.png"
+    },
+    "Notre Dame":{
+      "abbrev":"NDAME",
+      "mascot":"Fighting Irish",
+      "pic":"./logos/notreDame.png"
+    }
+  },
+  "Mid-American":{
+    "Akron":{
+      "abbrev":"AKRN",
+      "mascot":"Zips",
+      "pic":"./logos/akron.png"
+    },
+    "Ball State":{
+      "abbrev":"BALL",
+      "mascot":"Cardinals",
+      "pic":"./logos/ballState.png"
+    },
+    "Bowling Green":{
+      "abbrev":"BGSU",
+      "mascot":"Falcons",
+      "pic":"./logos/bowlingGreen.png"
+    },
+    "Buffalo":{
+      "abbrev":"BUF",
+      "mascot":"Bulls",
+      "pic":"./logos/buffalo.png"
+    },
+    "Central Michigan":{
+      "abbrev":"CMU",
+      "mascot":"Chippewas",
+      "pic":"./logos/centralMichigan.png"
+    },
+    "Eastern Michigan":{
+      "abbrev":"EMU",
+      "mascot":"Eagles",
+      "pic":"./logos/easternMichigan.png"
+    },
+    "Kent State":{
+      "abbrev":"KENT",
+      "mascot":"Golden Flashes",
+      "pic":"./logos/kentState.png"
+    },
+    "Massachusetts":{
+      "abbrev":"UMASS",
+      "mascot":"Minutemen",
+      "pic":"./logos/massachusetts.png"
+    },
+    "Miami (OH)":{
+      "abbrev":"M-OH",
+      "mascot":"Redhawks",
+      "pic":"./logos/miamiOH.png"
+    },
+    "Northern Illinois":{
+      "abbrev":"NIU",
+      "mascot":"huskies",
+      "pic":"./logos/northernIllinois.png"
+    },
+    "Ohio":{
+      "abbrev":"OHIO",
+      "mascot":"Bobcats",
+      "pic":"./logos/ohio.png"
+    },
+    "Toledo":{
+      "abbrev":"TOL",
+      "mascot":"Rockets",
+      "pic":"./logos/toledo.png"
+    },
+    "Western Michigan":{
+      "abbrev":"WMU",
+      "mascot":"Broncos",
+      "pic":"./logos/westernMichigan.png"
+    }
+  },
+  "Mountain West":{
+    "Air Force":{
+      "abbrev":"AF",
+      "mascot":"Falcons",
+      "pic":"./logos/airForce.png"
+    },
+    "Boise State":{
+      "abbrev":"BOISE",
+      "mascot":"Broncos",
+      "pic":"./logos/boiseState.png"
+    },
+    "Colorado State":{
+      "abbrev":"CSU",
+      "mascot":"Rams",
+      "pic":"./logos/coloradoState.png"
+    },
+    "Fresno State":{
+      "abbrev":"FRSNO",
+      "mascot":"Bulldogs",
+      "pic":"./logos/fresnoState.png"
+    },
+    "Hawaii":{
+      "abbrev":"HAW",
+      "mascot":"Rainbow Warriors",
+      "pic":"./logos/hawaii.png"
+    },
+    "Nevada":{
+      "abbrev":"NEV",
+      "mascot":"Wolf Pack",
+      "pic":"./logos/nevada.png"
+    },
+    "New Mexico":{
+      "abbrev":"UNM",
+      "mascot":"Lobos",
+      "pic":"./logos/newMexico.png"
+    },
+    "San Diego State":{
+      "abbrev":"SDSU",
+      "mascot":"Aztecs",
+      "pic":"./logos/sanDiegoState.png"
+    },
+    "San José State":{
+      "abbrev":"SISU",
+      "mascot":"Spartans",
+      "pic":"./logos/sanJoseState.png"
+    },
+    "UNLV":{
+      "abbrev":"UNLV",
+      "mascot":"Rebels",
+      "pic":"./logos/unlv.png"
+    },
+    "Utah State":{
+      "abbrev":"UTST",
+      "mascot":"Aggies",
+      "pic":"./logos/utahState.png"
+    },
+    "Wyoming":{
+      "abbrev":"WYO",
+      "mascot":"Cowboys",
+      "pic":"./logos/wyoming.png"
+    }
+  },
+  "Pac-12":{
+    "Arizona":{
+      "abbrev":"ARIZ",
+      "mascot":"Wildcats",
+      "pic":"./logos/arizona.png"
+    },
+    "Arizona State":{
+      "abbrev":"ARST",
+      "mascot":"Sun Devils",
+      "pic":"./logos/arizonaState.png"
+    },
+    "California":{
+      "abbrev":"CAL",
+      "mascot":"Golden Bears",
+      "pic":"./logos/california.png"
+    },
+    "Colorado":{
+      "abbrev":"COL",
+      "mascot":"Buffaloes",
+      "pic":"./logos/colorado.png"
+    },
+    "Oregon":{
+      "abbrev":"OREG",
+      "mascot":"Ducks",
+      "pic":"./logos/oregon.png"
+    },
+    "Oregon State":{
+      "abbrev":"ORST",
+      "mascot":"Beavers",
+      "pic":"./logos/oregonState.png"
+    },
+    "Stanford":{
+      "abbrev":"STAN",
+      "mascot":"Cardinal",
+      "pic":"./logos/stanford.png"
+    },
+    "UCLA":{
+      "abbrev":"UCLA",
+      "mascot":"Bruins",
+      "pic":"./logos/ucla.png"
+    },
+    "USC":{
+      "abbrev":"USC",
+      "mascot":"Trojans",
+      "pic":"./logos/usc.png"
+    },
+    "Utah":{
+      "abbrev":"UTAH",
+      "mascot":"Utes",
+      "pic":"./logos/utah.png"
+    },
+    "Washington":{
+      "abbrev":"WASH",
+      "mascot":"Huskies",
+      "pic":"./logos/washington.png"
+    },
+    "Washington State":{
+      "abbrev":"WSU",
+      "mascot":"Cougars",
+      "pic":"./logos/washingtonState.png"
+    }
+  },
+  "SEC":{
+    "Alabama":{
+      "abbrev":"BAMA",
+      "mascot":"Crimson Tide",
+      "pic":"./logos/alabama.png"
+    },
+    "Arkansas":{
+      "abbrev":"ARK",
+      "mascot":"Razorbacks",
+      "pic":"./logos/arkansas.png"
+    },
+    "Auburn":{
+      "abbrev":"AUB",
+      "mascot":"Tigers",
+      "pic":"./logos/auburn.png"
+    },
+    "Florida":{
+      "abbrev":"UF",
+      "mascot":"Gators",
+      "pic":"./logos/florida.png"
+    },
+    "Georgia":{
+      "abbrev":"UGA",
+      "mascot":"Bulldogs",
+      "pic":"./logos/georgia.png"
+    },
+    "Kentucky":{
+      "abbrev":"UK",
+      "mascot":"Wildcats",
+      "pic":"./logos/kentucky.png"
+    },
+    "LSU":{
+      "abbrev":"LSU",
+      "mascot":"Tigers",
+      "pic":"./logos/lsu.png"
+    },
+    "Mississippi State":{
+      "abbrev":"MSST",
+      "mascot":"Bulldogs",
+      "pic":"./logos/mississippiState.png"
+    },
+    "Missouri":{
+      "abbrev":"MIZZ",
+      "mascot":"Tigers",
+      "pic":"./logos/missouri.png"
+    },
+    "Ole Miss":{
+      "abbrev":"MISS",
+      "mascot":"Rebels",
+      "pic":"./logos/oleMiss.png"
+    },
+    "South Carolina":{
+      "abbrev":"SCAR",
+      "mascot":"Gamecocks",
+      "pic":"./logos/southCarolina.png"
+    },
+    "Tennessee":{
+      "abbrev":"TENN",
+      "mascot":"Volunteers",
+      "pic":"./logos/tennessee.png"
+    },
+    "Texas A&M":{
+      "abbrev":"TXAM",
+      "mascot":"Aggies",
+      "pic":"./logos/texasAM.png"
+    },
+    "Vanderbilt":{
+      "abbrev":"VAND",
+      "mascot":"Commodores",
+      "pic":"./logos/vanderbilt.png"
+    }
+  },
+  "Sun Belt":{
+    "Appalachian State":{
+      "abbrev":"APP",
+      "mascot":"Mountaineers",
+      "pic":"./logos/appalachianState.png"
+    },
+    "Arkansas State":{
+      "abbrev":"ARST",
+      "mascot":"Red Wolves",
+      "pic":"./logos/arkansasState.png"
+    },
+    "Georgia Southern":{
+      "abbrev":"GASO",
+      "mascot":"Eagles",
+      "pic":"./logos/georgiaSouthern.png"
+    },
+    "Georgia State":{
+      "abbrev":"GAST",
+      "mascot":"Panthers",
+      "pic":"./logos/georgiaState.png"
+    },
+    "Idaho":{
+      "abbrev":"IDHO",
+      "mascot":"Vandals",
+      "pic":"./logos/idaho.png"
+    },
+    "Louisiana Lafayette":{
+      "abbrev":"ULL",
+      "mascot":"Ragin Cajuns",
+      "pic":"./logos/louisianaLafayette.png"
+    },
+    "Louisiana Monroe":{
+      "abbrev":"ULM",
+      "mascot":"Warhawks",
+      "pic":"./logos/louisianaMonroe.png"
+    },
+    "New Mexico State":{
+      "abbrev":"NMST",
+      "mascot":"Aggies",
+      "pic":"./logos/newMexicoState.png"
+    },
+    "South Alabama":{
+      "abbrev":"SBAMA",
+      "mascot":"Jaguars",
+      "pic":"./logos/southAlabama.png"
+    },
+    "Texas State":{
+      "abbrev":"TXST",
+      "mascot":"Bobcats",
+      "pic":"./logos/texasState.png"
+    },
+    "Troy":{
+      "abbrev":"TROY",
+      "mascot":"Trojans",
+      "pic":"./logos/troy.png"
+    }
+  },
+  "Big Sky":{
+    "Cal Poly":{
+      "abbrev":"CP",
+      "mascot":"Mustangs",
+      "pic":"./logos/calPoly.png"
+    },
+    "Eastern Washington":{
+      "abbrev":"EWU",
+      "mascot":"Eagles",
+      "pic":"./logos/easternWashington.png"
+    },
+    "Idaho State":{
+      "abbrev":"IDST",
+      "mascot":"Bengals",
+      "pic":"./logos/idahoState.png"
+    },
+    "Montana":{
+      "abbrev":"MONT",
+      "mascot":"Grizzlies",
+      "pic":"./logos/montana.png"
+    },
+    "Montana State":{
+      "abbrev":"MTST",
+      "mascot":"Bobcats",
+      "pic":"./logos/montanaState.png"
+    },
+    "North Dakota":{
+      "abbrev":"UND",
+      "mascot":"Fighting Hawks",
+      "pic":"./logos/northDakota.png"
+    },
+    "Northern Arizona":{
+      "abbrev":"NAU",
+      "mascot":"Lumberjacks",
+      "pic":"./logos/northernArizona.png"
+    },
+    "Northern Colorado":{
+      "abbrev":"UNCO",
+      "mascot":"Bears",
+      "pic":"./logos/northernColorado.png"
+    },
+    "Portland State":{
+      "abbrev":"PRST",
+      "mascot":"Vikings",
+      "pic":"./logos/portlandState.png"
+    },
+    "Sacramento State":{
+      "abbrev":"SAC",
+      "mascot":"Hornets",
+      "pic":"./logos/sacramentoState.png"
+    },
+    "Southern Utah":{
+      "abbrev":"SUU",
+      "mascot":"Thunderbirds",
+      "pic":"./logos/southernUtah.png"
+    },
+    "UC Davis":{
+      "abbrev":"UCD",
+      "mascot":"Aggies",
+      "pic":"./logos/ucDavis.png"
+    },
+    "Weber State":{
+      "abbrev":"WEB",
+      "mascot":"Wildcats",
+      "pic":"./logos/weberState.png"
+    }
+  },
+  "Big South":{
+    "Charleston Southern":{
+      "abbrev":"CHSO",
+      "mascot":"Buccaneers",
+      "pic":"./logos/charlestonSouthern.png"
+    },
+    "Coastal Carolina":{
+      "abbrev":"CCAR",
+      "mascot":"Chanticleers",
+      "pic":"./logos/coastalCarolina.png"
+    },
+    "Gardner-Webb":{
+      "abbrev":"WEBB",
+      "mascot":"Bulldogs",
+      "pic":"./logos/gardnerWebb.png"
+    },
+    "Kennesaw State":{
+      "abbrev":"KENN",
+      "mascot":"Owls",
+      "pic":"./logos/kennesawState.png"
+    },
+    "Liberty":{
+      "abbrev":"LIB",
+      "mascot":"Flames",
+      "pic":"./logos/liberty.png"
+    },
+    "Monmouth":{
+      "abbrev":"MONM",
+      "mascot":"Hawks",
+      "pic":"./logos/monmouth.png"
+    },
+    "Presbyterian College":{
+      "abbrev":"PRE",
+      "mascot":"Blue Hose",
+      "pic":"./logos/presbyterianCollege.png"
+    }
+  },
+  "CAA":{
+    "Albany":{
+      "abbrev":"ALBY",
+      "mascot":"Great Danes",
+      "pic":"./logos/albany.png"
+    },
+    "Delaware":{
+      "abbrev":"DEL",
+      "mascot":"Blue Hens",
+      "pic":"./logos/delaware.png"
+    },
+    "Elon":{
+      "abbrev":"ELON",
+      "mascot":"Phoenix",
+      "pic":"./logos/elon.png"
+    },
+    "James Madison":{
+      "abbrev":"JMU",
+      "mascot":"Dukes",
+      "pic":"./logos/jamesMadison.png"
+    },
+    "Maine":{
+      "abbrev":"MAINE",
+      "mascot":"Black Bears",
+      "pic":"./logos/maine.png"
+    },
+    "New Hampshire":{
+      "abbrev":"UNH",
+      "mascot":"Wildcats",
+      "pic":"./logos/newHampshire.png"
+    },
+    "Rhode Island":{
+      "abbrev":"URI",
+      "mascot":"Rams",
+      "pic":"./logos/rhodeIsland.png"
+    },
+    "Richmond":{
+      "abbrev":"RICH",
+      "mascot":"Spiders",
+      "pic":"./logos/richmond.png"
+    },
+    "Stony Brook":{
+      "abbrev":"STON",
+      "mascot":"Seawolves",
+      "pic":"./logos/stonyBrook.png"
+    },
+    "Towson":{
+      "abbrev":"TOWS",
+      "mascot":"Tigers",
+      "pic":"./logos/towson.png"
+    },
+    "Villanova":{
+      "abbrev":"NOVA",
+      "mascot":"Wildcats",
+      "pic":"./logos/villanova.png"
+    },
+    "William & Mary":{
+      "abbrev":"W&M",
+      "mascot":"Tribe",
+      "pic":"./logos/williamMary.png"
+    }
+  },
+  "FCS Independents":{
+    "East Tenn. St.":{
+      "abbrev":"ETSU",
+      "mascot":"Buccaneers",
+      "pic":"./logos/eastTennessee.png"
+    }
+  },
+  "Ivy":{
+    "Brown":{
+      "abbrev":"BRWN",
+      "mascot":"Bears",
+      "pic":"./logos/brown.png"
+    },
+    "Columbia":{
+      "abbrev":"CLMB",
+      "mascot":"Lions",
+      "pic":"./logos/columbia.png"
+    },
+    "Cornell":{
+      "abbrev":"COR",
+      "mascot":"Big Red",
+      "pic":"./logos/cornell.png"
+    },
+    "Dartmouth":{
+      "abbrev":"DART",
+      "mascot":"Big Green",
+      "pic":"./logos/dartmouth.png"
+    },
+    "Harvard":{
+      "abbrev":"HARV",
+      "mascot":"Crimson",
+      "pic":"./logos/harvard.png"
+    },
+    "Penn":{
+      "abbrev":"PENN",
+      "mascot":"Quakers",
+      "pic":"./logos/penn.png"
+    },
+    "Princeton":{
+      "abbrev":"PRIN",
+      "mascot":"Tigers",
+      "pic":"./logos/princeton.png"
+    },
+    "Yale":{
+      "abbrev":"YALE",
+      "mascot":"Bulldogs",
+      "pic":"./logos/yale.png"
+    }
+  },
+  "MEAC":{
+    "Bethune-Cookman":{
+      "abbrev":"COOK",
+      "mascot":"Wildcats",
+      "pic":"./logos/bethuneCookman.png"
+    },
+    "Delaware State":{
+      "abbrev":"DSU",
+      "mascot":"Hornets",
+      "pic":"./logos/delawareState.png"
+    },
+    "Florida A&M":{
+      "abbrev":"FAMU",
+      "mascot":"Rattlers",
+      "pic":"./logos/floridaAM.png"
+    },
+    "Hampton":{
+      "abbrev":"HAMP",
+      "mascot":"Pirates",
+      "pic":"./logos/hampton.png"
+    },
+    "Howard":{
+      "abbrev":"HOW",
+      "mascot":"Bison",
+      "pic":"./logos/howard.png"
+    },
+    "Morgan State":{
+      "abbrev":"MORG",
+      "mascot":"Bears",
+      "pic":"./logos/morganState.png"
+    },
+    "Norfolk State":{
+      "abbrev":"NORF",
+      "mascot":"Spartans",
+      "pic":"./logos/norfolkState.png"
+    },
+    "North Carolina A&T":{
+      "abbrev":"NCAT",
+      "mascot":"Aggies",
+      "pic":"./logos/northCarolinaAT.png"
+    },
+    "North Carolina Central":{
+      "abbrev":"NCCU",
+      "mascot":"Eagles",
+      "pic":"./logos/northCarolinaCentral.png"
+    },
+    "Savannah State":{
+      "abbrev":"SAV",
+      "mascot":"Tigers",
+      "pic":"./logos/savannahState.png"
+    },
+    "South Carolina State":{
+      "abbrev":"SCST",
+      "mascot":"Bulldogs",
+      "pic":"./logos/southCarolinaState.png"
+    }
+  },
+  "Missouri Valley":{
+    "Illinois State":{
+      "abbrev":"ILST",
+      "mascot":"Redbirds",
+      "pic":"./logos/illinoisState.png"
+    },
+    "Indiana State":{
+      "abbrev":"INST",
+      "mascot":"Sycamores",
+      "pic":"./logos/indianaState.png"
+    },
+    "Missouri State":{
+      "abbrev":"MOST",
+      "mascot":"Bears",
+      "pic":"./logos/missouriState.png"
+    },
+    "North Dakota State":{
+      "abbrev":"NDSU",
+      "mascot":"Bison",
+      "pic":"./logos/northDakotaState.png"
+    },
+    "Northern Iowa":{
+      "abbrev":"UNI",
+      "mascot":"Panthers",
+      "pic":"./logos/northernIowa.png"
+    },
+    "South Dakota":{
+      "abbrev":"SDAK",
+      "mascot":"Coyotes",
+      "pic":"./logos/southDakota.png"
+    },
+    "South Dakota State":{
+      "abbrev":"SDSU",
+      "mascot":"Jackrabbits",
+      "pic":"./logos/southDakotaState.png"
+    },
+    "Southern Illinois":{
+      "abbrev":"SIU",
+      "mascot":"Salukis",
+      "pic":"./logos/southernIllinois.png"
+    },
+    "Western Illinois":{
+      "abbrev":"WIU",
+      "mascot":"Leathernecks",
+      "pic":"./logos/westernIllinois.png"
+    },
+    "Youngstown State":{
+      "abbrev":"YSU",
+      "mascot":"Penguins",
+      "pic":"./logos/youngstownState.png"
+    }
+  },
+  "Northeast":{
+    "Bryant":{
+      "abbrev":"BRY",
+      "mascot":"Bulldogs",
+      "pic":"./logos/bryant.png"
+    },
+    "Central Connecticut":{
+      "abbrev":"CCSU",
+      "mascot":"Blue Devils",
+      "pic":"./logos/centralConnecticut.png"
+    },
+    "Duquesne":{
+      "abbrev":"DUQ",
+      "mascot":"Dukes",
+      "pic":"./logos/duquesne.png"
+    },
+    "Robert Morris":{
+      "abbrev":"RMU",
+      "mascot":"Colonials",
+      "pic":"./logos/robertMorris.png"
+    },
+    "Sacred Heart":{
+      "abbrev":"SHU",
+      "mascot":"Pioneers",
+      "pic":"./logos/sacredHeart.png"
+    },
+    "St Francis (PA)":{
+      "abbrev":"SFU",
+      "mascot":"Red Flash",
+      "pic":"./logos/stFrancisPA.png"
+    },
+    "Wagner":{
+      "abbrev":"WAG",
+      "mascot":"Seahawks",
+      "pic":"./logos/wagner.png"
+    }
+  },
+  "Ohio Valley":{
+    "Austin Peay":{
+      "abbrev":"PEAY",
+      "mascot":"Governors",
+      "pic":"./logos/austinPeay.png"
+    },
+    "Eastern Illinois":{
+      "abbrev":"EIU",
+      "mascot":"Panthers",
+      "pic":"./logos/easternIllinois.png"
+    },
+    "Eastern Kentucky":{
+      "abbrev":"EKY",
+      "mascot":"Colonels",
+      "pic":"./logos/easternKentucky.png"
+    },
+    "Jacksonville State":{
+      "abbrev":"JVST",
+      "mascot":"Gamecocks",
+      "pic":"./logos/jacksonvilleState.png"
+    },
+    "Murray State":{
+      "abbrev":"MURR",
+      "mascot":"Racers",
+      "pic":"./logos/murrayState.png"
+    },
+    "Southeast Missouri State":{
+      "abbrev":"SEMO",
+      "mascot":"Redhawks",
+      "pic":"./logos/southeastMissouriState.png"
+    },
+    "Tennessee State":{
+      "abbrev":"TNST",
+      "mascot":"Tigers",
+      "pic":"./logos/tennesseeState.png"
+    },
+    "Tennessee Tech":{
+      "abbrev":"TNTC",
+      "mascot":"Golden Eagles",
+      "pic":"./logos/tennesseeTech.png"
+    },
+    "Tennessee-Martin":{
+      "abbrev":"UTM",
+      "mascot":"Skyhawks",
+      "pic":"./logos/tennesseeMartin.png"
+    }
+  },
+  "Patriot League":{
+    "Bucknell":{
+      "abbrev":"BUCK",
+      "mascot":"Bison",
+      "pic":"./logos/.png"
+    },
+    "Colgate":{
+      "abbrev":"COLG",
+      "mascot":"Raiders",
+      "pic":"./logos/.png"
+    },
+    "Fordham":{
+      "abbrev":"FOR",
+      "mascot":"Rams",
+      "pic":"./logos/.png"
+    },
+    "Georgetown":{
+      "abbrev":"GTWN",
+      "mascot":"Hoyas",
+      "pic":"./logos/.png"
+    },
+    "Holy Cross":{
+      "abbrev":"HC",
+      "mascot":"Crusaders",
+      "pic":"./logos/.png"
+    },
+    "Lafayette":{
+      "abbrev":"LAF",
+      "mascot":"Leopards",
+      "pic":"./logos/.png"
+    },
+    "Lehigh":{
+      "abbrev":"LEH",
+      "mascot":"Mountain Hawks",
+      "pic":"./logos/.png"
+    }
+  },
+  "Pioneer":{
+    "Butler":{
+      "abbrev":"BUT",
+      "mascot":"Bulldogs",
+      "pic":"./logos/butler.png"
+    },
+    "Campbell":{
+      "abbrev":"CAMP",
+      "mascot":"Camels",
+      "pic":"./logos/campbell.png"
+    },
+    "Davidson":{
+      "abbrev":"DAV",
+      "mascot":"Wildcats",
+      "pic":"./logos/davidson.png"
+    },
+    "Dayton":{
+      "abbrev":"DAY",
+      "mascot":"Flyers",
+      "pic":"./logos/dayton.png"
+    },
+    "Drake":{
+      "abbrev":"DRKE",
+      "mascot":"Bulldogs",
+      "pic":"./logos/drake.png"
+    },
+    "Jacksonville":{
+      "abbrev":"JAC",
+      "mascot":"Dolphins",
+      "pic":"./logos/jacksonville.png"
+    },
+    "Marist":{
+      "abbrev":"MRST",
+      "mascot":"Red Foxes",
+      "pic":"./logos/marist.png"
+    },
+    "Morehead State":{
+      "abbrev":"MORE",
+      "mascot":"Eagles",
+      "pic":"./logos/moreheadState.png"
+    },
+    "San Diego":{
+      "abbrev":"USD",
+      "mascot":"Toreros",
+      "pic":"./logos/sanDiego.png"
+    },
+    "Stetson":{
+      "abbrev":"STET",
+      "mascot":"Hatters",
+      "pic":"./logos/stetson.png"
+    },
+    "Valparaiso":{
+      "abbrev":"VALP",
+      "mascot":"Crusaders",
+      "pic":"./logos/valparaiso.png"
+    }
+  },
+  "Southern":{
+    "Chattanooga":{
+      "abbrev":"Chat",
+      "mascot":"Mocs",
+      "pic":"./logos/chattanooga.png"
+    },
+    "Furman":{
+      "abbrev":"Fur",
+      "mascot":"Paladins",
+      "pic":"./logos/furman.png"
+    },
+    "Mercer":{
+      "abbrev":"MER",
+      "mascot":"Bears",
+      "pic":"./logos/mercer.png"
+    },
+    "Samford":{
+      "abbrev":"SAM",
+      "mascot":"Bulldogs",
+      "pic":"./logos/samford.png"
+    },
+    "The Citadel":{
+      "abbrev":"CIT",
+      "mascot":"Bulldogs",
+      "pic":"./logos/citadel.png"
+    },
+    "VMI":{
+      "abbrev":"VMI",
+      "mascot":"Keydets",
+      "pic":"./logos/vmi.png"
+    },
+    "Western Carolina":{
+      "abbrev":"WCU",
+      "mascot":"Catamounts",
+      "pic":"./logos/westernCarolina.png"
+    },
+    "Wofford":{
+      "abbrev":"WOF",
+      "mascot":"Terriers",
+      "pic":"./logos/wofford.png"
+    }
+  },
+  "Southland":{
+    "Abilene Christian":{
+      "abbrev":"ACU",
+      "mascot":"Wildcats",
+      "pic":"./logos/abileneChristian.png"
+    },
+    "Central Arkansas":{
+      "abbrev":"UCA",
+      "mascot":"Bears",
+      "pic":"./logos/centralArkansas.png"
+    },
+    "Houston Baptist":{
+      "abbrev":"HBU",
+      "mascot":"Huskies",
+      "pic":"./logos/houstonBaptist.png"
+    },
+    "Incarnate Word":{
+      "abbrev":"IW",
+      "mascot":"Cardinals",
+      "pic":"./logos/incarnateWord.png"
+    },
+    "Lamar":{
+      "abbrev":"LAM",
+      "mascot":"Cardinals",
+      "pic":"./logos/lamar.png"
+    },
+    "McNeese State":{
+      "abbrev":"MCNS",
+      "mascot":"Cowboys",
+      "pic":"./logos/mcNeeseState.png"
+    },
+    "Nicholls State":{
+      "abbrev":"NICH",
+      "mascot":"Colonels",
+      "pic":"./logos/nichollsState.png"
+    },
+    "Northwestern State":{
+      "abbrev":"NWST",
+      "mascot":"Demons",
+      "pic":"./logos/northwesternState.png"
+    },
+    "Sam Houston State":{
+      "abbrev":"SHSU",
+      "mascot":"Bearkats",
+      "pic":"./logos/samHoustonState.png"
+    },
+    "Southeastern Louisiana":{
+      "abbrev":"SELA",
+      "mascot":"Lions",
+      "pic":"./logos/southeasternLouisiana.png"
+    },
+    "Stephen F Austin":{
+      "abbrev":"SFA",
+      "mascot":"Lumberjacks",
+      "pic":"./logos/stephenFAustin.png"
+    }
+  },
+  "SWAC":{
+    "Alabama A&M":{
+      "abbrev":"AAMU",
+      "mascot":"Bulldogs",
+      "pic":"./logos/alabamaAM.png"
+    },
+    "Alabama State":{
+      "abbrev":"ALST",
+      "mascot":"Hornets",
+      "pic":"./logos/alabamaState.png"
+    },
+    "Alcorn State":{
+      "abbrev":"ALCN",
+      "mascot":"Braves",
+      "pic":"./logos/alcornState.png"
+    },
+    "Arkansas-Pine Bluff":{
+      "abbrev":"ARPB",
+      "mascot":"Golde Lions",
+      "pic":"./logos/arkansasPineBluff.png"
+    },
+    "Grambling State":{
+      "abbrev":"GRAM",
+      "mascot":"Tigers",
+      "pic":"./logos/gramblingState.png"
+    },
+    "Jackson State":{
+      "abbrev":"JKST",
+      "mascot":"Tigers",
+      "pic":"./logos/jacksonState.png"
+    },
+    "Mississippi Valley State":{
+      "abbrev":"MVSU",
+      "mascot":"Delta Devils",
+      "pic":"./logos/mississippiValleyState.png"
+    },
+    "Prairie View A&M":{
+      "abbrev":"PV",
+      "mascot":"Prairie View",
+      "pic":"./logos/prairieView.png"
+    },
+    "Southern":{
+      "abbrev":"SOU",
+      "mascot":"Jaguars",
+      "pic":"./logos/southern.png"
+    },
+    "Texas Southern":{
+      "abbrev":"TXSO",
+      "mascot":"Tigers",
+      "pic":"./logos/texasSouthern.png"
+    }
+  }
+}

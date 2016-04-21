@@ -1,0 +1,43 @@
+{
+  "name": "sportsJSON",
+  "version": "0.0.0",
+  "description": "JSON of division, team, abbreviation, mascot, and logo",
+  "license": "MIT",
+  "repository": "abrelsfo/sportsJSON",
+  "author": {
+    "name": "abrelsfo",
+    "email": "alexbrelsford@gmail.com",
+    "url": "abrelsfo.github.io"
+  },
+  "build": {
+    "app-category-type": "Developer-Tools",
+    "osx-sign": "Alex Brelsford"
+  },
+	"bugs":{
+		"url": "https://github.com/abrelsfo/sportsJSON/issues"
+	},
+  "engines": {
+    "node": ">=5.7.0"
+  },
+  "files": [
+    "collegeFootball.json"
+  ],
+  "keywords": [
+    "college",
+    "sports",
+    "football",
+    "Alex"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "xo": "^0.12.1",
+		"eslint-config-xo-space": "^0.8.0"
+  },
+  "xo": {
+    "space": true,
+    "eslintConfig": {
+      "extends": "xo-space"
+    }
+  }
+}
